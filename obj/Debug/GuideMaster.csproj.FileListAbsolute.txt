@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GuideMaster\bin\Debug\GuideMaster.exe.config
+C:\Users\User\source\repos\GuideMaster\bin\Debug\GuideMaster.exe
+C:\Users\User\source\repos\GuideMaster\bin\Debug\GuideMaster.pdb
+C:\Users\User\source\repos\GuideMaster\obj\Debug\GuideMaster.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GuideMaster\obj\Debug\GuideMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GuideMaster\obj\Debug\GuideMaster.exe
+C:\Users\User\source\repos\GuideMaster\obj\Debug\GuideMaster.pdb
